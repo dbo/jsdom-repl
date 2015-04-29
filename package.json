@@ -14,8 +14,8 @@
   "author": "Joseph Werle <joseph.werle@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "minimist": "~1.1.0",
-    "jsdom": "~1.0.3",
-    "batch": "~0.5.1"
+    "batch": "~0.5.2",
+    "jsdom": "~5.2.0",
+    "minimist": "~1.1.1"
   }
 }
